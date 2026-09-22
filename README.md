@@ -16,6 +16,11 @@ Technology Stack
 - Data Visualization: [Plotly](https://plotly.com/python/)
 - Data Manipulation: [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/)
 
+Url Link to the webapp
+https://cancerprediction-webapp-fghguyhl3nbyhzbruubudu.streamlit.app/
+
+
+
 Project Structure
 
 ```text
